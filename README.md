@@ -1,4 +1,10 @@
-DEPRECATION NOTICE
+Backup/compilling copy
+======================
+E
+
+
+
+
 ==================
 
 Mozilla has made a strategic decision to sunset Thimble over the course of 2018-2019. We encourage you to check out [Glitch](https://glitch.com) and you can [read our blog post](https://medium.com/read-write-participate/a-note-about-thimble-b8ba0a51b8fd) to learn more about this partnership.
